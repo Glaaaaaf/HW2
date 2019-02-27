@@ -1,6 +1,18 @@
 # tei-example
 
-1.
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Чесмесский бой</title>
+<author>М.М. Херасков</author>
+</titleStmt>
+<respStmt>
+<persName>Глафира Солдатова</persName>
+<resp>создание TEI документа, выделение в тексте персоналий, мест</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
 <text>
 <speech>
 <said type='direct' ='true'>
